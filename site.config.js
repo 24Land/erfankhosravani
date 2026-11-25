@@ -30,7 +30,7 @@ export default {
   // The four big tiles. "telegram", "YouTube"... are only samples: put your own, or "" to hide one.
   // Members / subscribers / stars are fetched automatically.
   social: {
-    telegram: "TwentyFourLand", //      public channel username
+    telegram: "ErfanKhosravani", //      public channel username
     youtube: "", //        channel handle
     instagram: "24Land.ir",
     website: "https://github.com/24Land",
@@ -49,7 +49,7 @@ export default {
         { id: "website", label: { fa: "وب‌سایت", en: "Website" }, url: "https://24Land.ir", icon: "globe", color: "139,92,246", handle: "" },
         { id: "website", label: { fa: "وب‌سایت", en: "Website" }, url: "https://24Land.ir", icon: "globe", color: "139,92,246", handle: "" },
         { id: "website", label: { fa: "وب‌سایت", en: "Website" }, url: "https://24Land.ir", icon: "globe", color: "139,92,246", handle: "" },
-    { id: "email", label: { fa: "ایمیل", en: "Email" }, url: "mailto:24Land.ir@Gmail.com", icon: "mail", color: "74,222,128", handle: "hello@example.com" }
+    { id: "email", label: { fa: "ایمیل", en: "Email" }, url: "mailto:24Land.ir@Gmail.com", icon: "mail", color: "74,222,128", handle: "24Land.ir@Gmail.com" }
   ],
 
   // ── Donation card ──
