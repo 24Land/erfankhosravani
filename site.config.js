@@ -33,8 +33,8 @@ export default {
     telegram: "TwentyFourLand", //      public channel username
     youtube: "", //        channel handle
     instagram: "24Land.ir",
-    github: "https://github.com/24Land",
-    featuredRepo: "docs" //       one of your GitHub repositories to show as a card, "" to hide it
+    website: "https://github.com/24Land",
+    featuredRepo: "https://github.com/24Land" //       one of your GitHub repositories to show as a card, "" to hide it
   },
 
   // ── Any other link you want ──
@@ -43,7 +43,12 @@ export default {
   // color : red,green,blue
   // handle: optional text with a copy button
   links: [
-    { id: "website", label: { fa: "وب‌سایت", en: "Website" }, url: "https://24Land.ir", icon: "globe", color: "139,92,246", handle: "" },
+    { id: "website", label: { fa: "ورود به 24 لند", en: "Website" }, url: "https://24Land.ir", icon: "globe", color: "139,92,246", handle: "" },
+        { id: "website", label: { fa: "24 سوشال | خرید خدمات شبکه‌های اجتماعی و شماره مجازی
+", en: "Website" }, url: "https://24Land.ir", icon: "globe", color: "139,92,246", handle: "" },
+        { id: "website", label: { fa: "وب‌سایت", en: "Website" }, url: "https://24Land.ir", icon: "globe", color: "139,92,246", handle: "" },
+        { id: "website", label: { fa: "وب‌سایت", en: "Website" }, url: "https://24Land.ir", icon: "globe", color: "139,92,246", handle: "" },
+        { id: "website", label: { fa: "وب‌سایت", en: "Website" }, url: "https://24Land.ir", icon: "globe", color: "139,92,246", handle: "" },
     { id: "email", label: { fa: "ایمیل", en: "Email" }, url: "mailto:24Land.ir@Gmail.com", icon: "mail", color: "74,222,128", handle: "hello@example.com" }
   ],
 
