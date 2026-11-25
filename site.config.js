@@ -44,9 +44,6 @@ export default {
   // handle: optional text with a copy button
   links: [
     { id: "website", label: { fa: "ورود به 24 لند", en: "Website" }, url: "https://24Land.ir", icon: "globe", color: "139,92,246", handle: "" },
-        { id: "website", label: { fa: "وب‌سایت", en: "Website" }, url: "https://24Land.ir", icon: "globe", color: "139,92,246", handle: "" },
-        { id: "website", label: { fa: "وب‌سایت", en: "Website" }, url: "https://24Land.ir", icon: "globe", color: "139,92,246", handle: "" },
-        { id: "website", label: { fa: "وب‌سایت", en: "Website" }, url: "https://24Land.ir", icon: "globe", color: "139,92,246", handle: "" },
     { id: "email", label: { fa: "ایمیل", en: "Email" }, url: "mailto:24Land.ir@Gmail.com", icon: "mail", color: "74,222,128", handle: "24Land.ir@Gmail.com" }
   ],
 
