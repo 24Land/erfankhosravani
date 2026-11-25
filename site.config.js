@@ -11,8 +11,8 @@ export default {
   name: "Erfan Khosravani", //           big title, browser tab, share preview
   shortName: "Erfan", //          name under the icon when installed on a phone
   tagline: {
-    fa: "اینجا همه‌ی لینک‌ها، ویدیوها و پروژه‌های من یک‌جا جمع شده",
-    en: "All my links, videos and projects in one place"
+    fa: "وب‌سایت شخصی توسعه دهنده پلتفرم 24 لند",
+    en: "Personal WebSite Of The Developer Of The 24 Land Platform"
   },
   description: {
     fa: "لینک‌ها، ویدیوها و پروژه‌های من",
