@@ -8,7 +8,7 @@
 // ─────────────────────────────────────────────────────────────────────────────
 export default {
   // ── Who you are ──
-  name: "عرفان خسروانی", //           big title, browser tab, share preview
+  name: "Erfan Khosravani", //           big title, browser tab, share preview
   shortName: "Erfan", //          name under the icon when installed on a phone
   tagline: {
     fa: "وب‌سایت شخصی توسعه دهنده پلتفرم 24 لند",
@@ -18,8 +18,8 @@ export default {
     fa: "وب‌سایت شخصی توسعه دهنده پلتفرم 24 لند",
     en: "Personal WebSite Of The Developer Of The 24 Land Platform"
   },
-  signature: "built with love and caffeine", // small line at the bottom of the side bar
-  cardSubtitle: "LINKS · VIDEOS · CODE", //     line on the visitor card image
+  signature: "24Land.ir", // small line at the bottom of the side bar
+  cardSubtitle: "24Land.ir", //     line on the visitor card image
   showCredit: true, //            small "made with Pelak" link; false removes it
 
   // ── Languages ──
