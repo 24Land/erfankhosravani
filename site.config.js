@@ -8,15 +8,15 @@
 // ─────────────────────────────────────────────────────────────────────────────
 export default {
   // ── Who you are ──
-  name: "Erfan Khosravani", //           big title, browser tab, share preview
+  name: "عرفان خسروانی", //           big title, browser tab, share preview
   shortName: "Erfan", //          name under the icon when installed on a phone
   tagline: {
     fa: "وب‌سایت شخصی توسعه دهنده پلتفرم 24 لند",
     en: "Personal WebSite Of The Developer Of The 24 Land Platform"
   },
   description: {
-    fa: "لینک‌ها، ویدیوها و پروژه‌های من",
-    en: "My links, videos and projects"
+    fa: "وب‌سایت شخصی توسعه دهنده پلتفرم 24 لند",
+    en: "Personal WebSite Of The Developer Of The 24 Land Platform"
   },
   signature: "built with love and caffeine", // small line at the bottom of the side bar
   cardSubtitle: "LINKS · VIDEOS · CODE", //     line on the visitor card image
