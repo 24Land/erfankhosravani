@@ -44,8 +44,7 @@ export default {
   // handle: optional text with a copy button
   links: [
     { id: "website", label: { fa: "ورود به 24 لند", en: "Website" }, url: "https://24Land.ir", icon: "globe", color: "139,92,246", handle: "" },
-        { id: "website", label: { fa: "24 سوشال | خرید خدمات شبکه‌های اجتماعی و شماره مجازی
-", en: "Website" }, url: "https://24Land.ir", icon: "globe", color: "139,92,246", handle: "" },
+        { id: "website", label: { fa: "24 سوشال | خرید خدمات شبکه‌های اجتماعی و شماره مجازی", en: "Website" }, url: "https://24Land.ir", icon: "globe", color: "139,92,246", handle: "" },
         { id: "website", label: { fa: "وب‌سایت", en: "Website" }, url: "https://24Land.ir", icon: "globe", color: "139,92,246", handle: "" },
         { id: "website", label: { fa: "وب‌سایت", en: "Website" }, url: "https://24Land.ir", icon: "globe", color: "139,92,246", handle: "" },
         { id: "website", label: { fa: "وب‌سایت", en: "Website" }, url: "https://24Land.ir", icon: "globe", color: "139,92,246", handle: "" },
