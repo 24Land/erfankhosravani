@@ -31,9 +31,9 @@ export default {
   // Members / subscribers / stars are fetched automatically.
   social: {
     telegram: "TwentyFourLand", //      public channel username
-    youtube: "YouTube", //        channel handle
-    instagram: "instagram",
-    github: "github",
+    youtube: "", //        channel handle
+    instagram: "24Land.ir",
+    github: "https://github.com/24Land",
     featuredRepo: "docs" //       one of your GitHub repositories to show as a card, "" to hide it
   },
 
