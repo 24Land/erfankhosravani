@@ -55,7 +55,7 @@ export default {
     goal: 10000000, //            goal amount
     currency: { fa: "تومان", en: "Toman" },
     button: { label: { fa: "حمایت", en: "Donate" }, url: "https://example.com/donate" }, // url "" hides the button
-    crypto: { label: { fa: "کریپتو ⚡", en: "Crypto ⚡" }, url: "" }
+    crypto: { label: { fa: "کریپتو ⚡", en: "Crypto ⚡" }, url: "https://nowpayments.io/donation/erfan" }
   },
 
   // ── Turn parts of the page on / off ──
@@ -79,10 +79,10 @@ export default {
     // For fixed colours: { a1: [47, 139, 255], a2: [139, 92, 246] }  (red, green, blue)
     accent: null
   },
-  hubCountry: "DE", //     lines on the globe fly to this country (two-letter code)
-  hubLabel: "HQ",
-  terminalUser: "guest", // shown as guest@pelak in the terminal
+  hubCountry: "IR", //     lines on the globe fly to this country (two-letter code)
+  hubLabel: "SHZ",
+  terminalUser: "guest", // shown as Guest@Erfan in the terminal
 
   // ── Optional ──
-  securityContact: "" //   "mailto:you@example.com" or "https://t.me/you", used in /.well-known/security.txt
+  securityContact: "" //   "mailto:24Land.ir@Gmail.com" or "https://t.me/ErfanKhosravani", used in /.well-known/security.txt
 };
