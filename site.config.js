@@ -60,7 +60,7 @@ export default {
 
   // ── Turn parts of the page on / off ──
   sections: {
-    videos: true, //        latest YouTube videos
+    videos: fulse, //        latest YouTube videos
     posts: true, //         latest Telegram channel posts
     project: true, //       featured GitHub project
     tip: true, //           Linux tip of the day (edit the tips in public/tips.js)
@@ -81,7 +81,7 @@ export default {
   },
   hubCountry: "IR", //     lines on the globe fly to this country (two-letter code)
   hubLabel: "Shiraz",
-  terminalUser: "Guest@Erfan", // shown as guest@pelak in the terminal
+  terminalUser: "guest", // shown as guest@pelak in the terminal
 
   // ── Optional ──
   securityContact: "" //   "mailto:24Land.ir@Gmail.com" or "https://t.me/ErfanKhosravani", used in /.well-known/security.txt
