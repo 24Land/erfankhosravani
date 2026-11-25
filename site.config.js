@@ -32,8 +32,8 @@ export default {
   social: {
     telegram: "ErfanKhosravani", //      public channel username
     youtube: "", //        channel handle
-    instagram: "24Land.ir",
-    website: "https://github.com/24Land",
+    instagram: "ErfanKhosravanifar",
+    github: "",
     featuredRepo: "https://github.com/24Land" //       one of your GitHub repositories to show as a card, "" to hide it
   },
 
