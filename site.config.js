@@ -60,17 +60,17 @@ export default {
 
   // ── Turn parts of the page on / off ──
   sections: {
-    videos: fulse, //        latest YouTube videos
-    posts: fulse, //         latest Telegram channel posts
-    project: fulse, //       featured GitHub project
-    tip: fulse, //           Linux tip of the day (edit the tips in public/tips.js)
-    guestbook: fulse,
-    map: fulse, //           visitors globe
-    snake: fulse, //         snake game with a shared leaderboard
-    terminal: fulse,
-    achievements: fulse,
-    visitorCard: fulse,
-    qr: fulse
+    videos: ture, //        latest YouTube videos
+    posts: ture, //         latest Telegram channel posts
+    project: ture, //       featured GitHub project
+    tip: ture, //           Linux tip of the day (edit the tips in public/tips.js)
+    guestbook: ture,
+    map: ture, //           visitors globe
+    snake: ture, //         snake game with a shared leaderboard
+    terminal: ture,
+    achievements: ture,
+    visitorCard: ture,
+    qr: ture
   },
 
   // ── Look ──
