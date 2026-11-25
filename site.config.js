@@ -30,7 +30,7 @@ export default {
   // The four big tiles. "telegram", "YouTube"... are only samples: put your own, or "" to hide one.
   // Members / subscribers / stars are fetched automatically.
   social: {
-    telegram: "telegram", //      public channel username
+    telegram: "TwentyFourLand", //      public channel username
     youtube: "YouTube", //        channel handle
     instagram: "instagram",
     github: "github",
@@ -43,18 +43,18 @@ export default {
   // color : red,green,blue
   // handle: optional text with a copy button
   links: [
-    { id: "website", label: { fa: "وب‌سایت", en: "Website" }, url: "https://example.com", icon: "globe", color: "139,92,246", handle: "" },
-    { id: "email", label: { fa: "ایمیل", en: "Email" }, url: "mailto:hello@example.com", icon: "mail", color: "74,222,128", handle: "hello@example.com" }
+    { id: "website", label: { fa: "وب‌سایت", en: "Website" }, url: "https://24Land.ir", icon: "globe", color: "139,92,246", handle: "" },
+    { id: "email", label: { fa: "ایمیل", en: "Email" }, url: "mailto:24Land.ir@Gmail.com", icon: "mail", color: "74,222,128", handle: "hello@example.com" }
   ],
 
   // ── Donation card ──
   donate: {
-    enabled: false,
+    enabled: true,
     title: { fa: "حمایت از من", en: "Support me" },
-    goalName: { fa: "تجهیزات جدید", en: "New gear" }, // Reymit's own goal name wins when connected
+    goalName: { fa: "توسعه 24 لند", en: "New gear" }, // Reymit's own goal name wins when connected
     goal: 10000000, //            goal amount
     currency: { fa: "تومان", en: "Toman" },
-    button: { label: { fa: "حمایت", en: "Donate" }, url: "https://example.com/donate" }, // url "" hides the button
+    button: { label: { fa: "حمایت", en: "Donate" }, url: "https://reymit.ir/khosravani" }, // url "" hides the button
     crypto: { label: { fa: "کریپتو ⚡", en: "Crypto ⚡" }, url: "https://nowpayments.io/donation/erfan" }
   },
 
@@ -80,8 +80,8 @@ export default {
     accent: null
   },
   hubCountry: "IR", //     lines on the globe fly to this country (two-letter code)
-  hubLabel: "SHZ",
-  terminalUser: "guest", // shown as Guest@Erfan in the terminal
+  hubLabel: "Shiraz",
+  terminalUser: "guest", // shown as guest@erfan in the terminal
 
   // ── Optional ──
   securityContact: "" //   "mailto:24Land.ir@Gmail.com" or "https://t.me/ErfanKhosravani", used in /.well-known/security.txt
