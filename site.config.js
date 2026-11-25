@@ -8,8 +8,8 @@
 // ─────────────────────────────────────────────────────────────────────────────
 export default {
   // ── Who you are ──
-  name: "PELAK", //           big title, browser tab, share preview
-  shortName: "Pelak", //          name under the icon when installed on a phone
+  name: "Erfan Khosravani", //           big title, browser tab, share preview
+  shortName: "Erfan Khosravani", //          name under the icon when installed on a phone
   tagline: {
     fa: "اینجا همه‌ی لینک‌ها، ویدیوها و پروژه‌های من یک‌جا جمع شده",
     en: "All my links, videos and projects in one place"
