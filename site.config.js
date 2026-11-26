@@ -70,7 +70,7 @@ export default {
     terminal: true,
     achievements: true,
     visitorCard: true,
-    qr: true
+    qr: fulse
   },
 
   // ── Look ──
@@ -81,7 +81,7 @@ export default {
   },
   hubCountry: "IR", //     lines on the globe fly to this country (two-letter code)
   hubLabel: "Shiraz",
-  terminalUser: "Guest@Erfan", // shown as guest@pelak in the terminal
+  terminalUser: "guest", // shown as guest@pelak in the terminal
 
   // ── Optional ──
   securityContact: "" //   "mailto:24Land.ir@Gmail.com" or "https://t.me/ErfanKhosravani", used in /.well-known/security.txt
