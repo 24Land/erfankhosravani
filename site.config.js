@@ -70,7 +70,7 @@ export default {
     terminal: true,
     achievements: true,
     visitorCard: true,
-    qr: true
+    qr: true,
   },
 
   // ── Look ──
