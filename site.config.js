@@ -68,9 +68,9 @@ export default {
     map: true, //           visitors globe
     snake: true, //         snake game with a shared leaderboard
     terminal: true,
-    achievements: true,
+    achievements: false,
     visitorCard: true,
-    qr: fulse
+    qr: false
   },
 
   // ── Look ──
