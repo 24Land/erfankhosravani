@@ -44,18 +44,18 @@ export default {
   // handle: optional text with a copy button
   links: [
     { id: "website", label: { fa: "وب‌سایت", en: "Website" }, url: "https://24Land.ir", icon: "globe", color: "139,92,246", handle: "" },
-    { id: "email", label: { fa: "ایمیل", en: "Email" }, url: "mailto:24Land.ir@Gmail.com", icon: "mail", color: "74,222,128", handle: "hello@example.com" }
+    { id: "email", label: { fa: "ایمیل", en: "Email" }, url: "mailto:24Land.ir@Gmail.com", icon: "mail", color: "74,222,128", handle: "24Land.ir@Gmail.com" }
   ],
 
   // ── Donation card ──
   donate: {
     enabled: true,
-    title: { fa: "حمایت از من", en: "Support me" },
-    goalName: { fa: "توسعه 24 لند", en: "New gear" }, // Reymit's own goal name wins when connected
+    title: { fa: "حمایت از بیست و چهار لند", en: "Support For 24 Land" },
+    goalName: { fa: "توسعه پلتفرم‌های جدید", en: "Development Of New Platforms" }, // Reymit's own goal name wins when connected
     goal: 10000000, //            goal amount
     currency: { fa: "تومان", en: "Toman" },
-    button: { label: { fa: "حمایت", en: "Donate" }, url: "https://reymit.ir/khosravani" }, // url "" hides the button
-    crypto: { label: { fa: "کریپتو ⚡", en: "Crypto ⚡" }, url: "https://nowpayments.io/donation/erfan" }
+    button: { label: { fa: "⚡ حمایت با ریمت (تومان)", en: "⚡ Support Via Reymit (Toman)" }, url: "https://reymit.ir/khosravani" }, // url "" hides the button
+    crypto: { label: { fa: "⚡ حمایت با NowPayments (کریپتو)", en: "⚡ Support Via NowPayments (Crypto)" }, url: "https://nowpayments.io/donation/erfan" }
   },
 
   // ── Turn parts of the page on / off ──
