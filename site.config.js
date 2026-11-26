@@ -66,13 +66,13 @@ export default {
     posts: false, //         latest Telegram channel posts
     project: false, //       featured GitHub project
     tip: true, //           Linux tip of the day (edit the tips in public/tips.js)
-    guestbook: true,
+    guestbook: false,
     map: true, //           visitors globe
     snake: true, //         snake game with a shared leaderboard
     terminal: true,
     achievements: true,
     visitorCard: true,
-    qr: true,
+    qr: true
   },
 
   // ── Look ──
@@ -86,5 +86,5 @@ export default {
   terminalUser: "guest", // shown as guest@pelak in the terminal
 
   // ── Optional ──
-  securityContact: "" //   "mailto:24Land.ir@Gmail.com" or "https://t.me/ErfanKhosravani", used in /.well-known/security.txt
+  securityContact: "https://t.me/ErfanKhosravani" //   "mailto:24Land.ir@Gmail.com" or "https://t.me/ErfanKhosravani", used in /.well-known/security.txt
 };
