@@ -45,10 +45,10 @@ export default {
   links: [
     { id: "website", label: { fa: "بیست و چهار لند | انواع خدمات در یک پلتفرم", en: "24 Land" }, url: "https://24land.ir", icon: "globe", color: "139,92,246", handle: "www.24Land.ir" },
     { id: "shop", label: { fa: "بیست و چهار سوشال | خرید خدمات شبکه‌های اجتماعی و شماره مجازی", en: "24 Social" }, url: "https://24social.ir", icon: "store", color: "250,190,88", handle: "www.24Social.ir" },
-    { id: "shop", label: { fa: "بیست و چهار استورز | فروشگاه اینترنتی", en: "24 Stores" }, url: "https://24stores.ir", icon: "store", color: "250,190,88", handle: "www.24Stores.ir" },
-    { id: "website", label: { fa: "بیست و چهار تونز | دانلود آهنگ و موزیک ویدیو", en: "24 Tunes" }, url: "https://24tunes.ir", icon: "globe", color: "139,92,246", handle: "www.24Tunes.ir" },
-    { id: "website", label: { fa: "بیست و چهار موویز | تماشای آنلاین فیلم و سریال", en: "24 Tunes" }, url: "https://24movies.ir", icon: "globe", color: "139,92,246", handle: "www.24Movies.ir" },
-    { id: "website", label: { fa: "بیست و چهار مگز |اخبار ایران و جهان", en: "24 Tunes" }, url: "https://24mags.ir", icon: "globe", color: "139,92,246", handle: "www.24Mags.ir" },
+    { id: "shop2", label: { fa: "بیست و چهار استورز | فروشگاه اینترنتی", en: "24 Stores" }, url: "https://24stores.ir", icon: "store", color: "250,190,88", handle: "www.24Stores.ir" },
+    { id: "website2", label: { fa: "بیست و چهار تونز | دانلود آهنگ و موزیک ویدیو", en: "24 Tunes" }, url: "https://24tunes.ir", icon: "globe", color: "139,92,246", handle: "www.24Tunes.ir" },
+    { id: "website3", label: { fa: "بیست و چهار موویز | تماشای آنلاین فیلم و سریال", en: "24 Tunes" }, url: "https://24movies.ir", icon: "globe", color: "139,92,246", handle: "www.24Movies.ir" },
+    { id: "website4", label: { fa: "بیست و چهار مگز |اخبار ایران و جهان", en: "24 Tunes" }, url: "https://24mags.ir", icon: "globe", color: "139,92,246", handle: "www.24Mags.ir" },
     { id: "email", label: { fa: "ایمیل", en: "Email" }, url: "mailto:24Land.ir@Gmail.com", icon: "mail", color: "74,222,128", handle: "24Land.ir@Gmail.com" }
   ],
 
