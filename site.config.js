@@ -11,7 +11,7 @@ export default {
   name: "Erfan Khosravani", //           big title, browser tab, share preview
   shortName: "Erfan", //          name under the icon when installed on a phone
   tagline: {
-    fa: "توسعه دهنده پلتفرم بیست و چهار لند",
+    fa: "توسعه دهنده پلتفرم 24 لند",
     en: "24 Land Platform Developer"
   },
   description: {
@@ -43,12 +43,12 @@ export default {
   // color : red,green,blue
   // handle: optional text with a copy button
   links: [
-    { id: "website", label: { fa: "24Land | انواع خدمات در یک پلتفرم", en: "24 Land" }, url: "https://24land.ir", icon: "globe", color: "139,92,246", handle: "24Land.ir" },
-    { id: "shop", label: { fa: "24Social | خرید خدمات شبکه‌های اجتماعی و شماره مجازی", en: "24 Social" }, url: "https://24social.ir", icon: "store", color: "250,190,88", handle: "24Social.ir" },
-    { id: "shop2", label: { fa: "24Stores | فروشگاه اینترنتی", en: "24 Stores" }, url: "https://24stores.ir", icon: "store", color: "250,190,88", handle: "24Stores.ir" },
-    { id: "website2", label: { fa: "24Tunes | دانلود آهنگ و موزیک ویدیو", en: "24 Tunes" }, url: "https://24tunes.ir", icon: "globe", color: "139,92,246", handle: "24Tunes.ir" },
-    { id: "website3", label: { fa: "24Movies | تماشای آنلاین فیلم و سریال", en: "24 Tunes" }, url: "https://24movies.ir", icon: "globe", color: "139,92,246", handle: "24Movies.ir" },
-    { id: "website4", label: { fa: "24Mags | اخبار ایران و جهان", en: "24 Tunes" }, url: "https://24mags.ir", icon: "globe", color: "139,92,246", handle: "24Mags.ir" },
+    { id: "website", label: { fa: "24 لند | انواع خدمات در یک پلتفرم", en: "24 Land" }, url: "https://24land.ir", icon: "globe", color: "139,92,246", handle: "24Land.ir" },
+    { id: "shop", label: { fa: "24 سوشال | خرید خدمات شبکه‌های اجتماعی و شماره مجازی", en: "24 Social" }, url: "https://24social.ir", icon: "store", color: "250,190,88", handle: "24Social.ir" },
+    { id: "shop2", label: { fa: "24 استورز | فروشگاه اینترنتی", en: "24 Stores" }, url: "https://24stores.ir", icon: "store", color: "250,190,88", handle: "24Stores.ir" },
+    { id: "website2", label: { fa: "24 تونز| دانلود آهنگ و موزیک ویدیو", en: "24 Tunes" }, url: "https://24tunes.ir", icon: "globe", color: "139,92,246", handle: "24Tunes.ir" },
+    { id: "website3", label: { fa: "24 موویز | تماشای آنلاین فیلم و سریال", en: "24 Tunes" }, url: "https://24movies.ir", icon: "globe", color: "139,92,246", handle: "24Movies.ir" },
+    { id: "website4", label: { fa: "24 مگز | اخبار ایران و جهان", en: "24 Tunes" }, url: "https://24mags.ir", icon: "globe", color: "139,92,246", handle: "24Mags.ir" },
     { id: "email", label: { fa: "ایمیل", en: "Email" }, url: "mailto:24Land.ir@Gmail.com", icon: "mail", color: "74,222,128", handle: "24Land.ir@Gmail.com" }
   ],
 
