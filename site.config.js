@@ -31,9 +31,9 @@ export default {
   // Members / subscribers / stars are fetched automatically.
   social: {
     telegram: "TwentyFourLand", //      public channel username
-    youtube: "YouTube", //        channel handle
+    youtube: "", //        channel handle
     instagram: "instagram",
-    github: "github",
+    github: "",
     featuredRepo: "docs" //       one of your GitHub repositories to show as a card, "" to hide it
   },
 
@@ -54,14 +54,14 @@ export default {
     goalName: { fa: "توسعه پلتفرم‌های جدید", en: "Development Of New Platforms" }, // Reymit's own goal name wins when connected
     goal: 10000000, //            goal amount
     currency: { fa: "تومان", en: "Toman" },
-    button: { label: { fa: "⚡ حمایت با ریمت (تومان)", en: "⚡ Support Via Reymit (Toman)" }, url: "https://reymit.ir/khosravani" }, // url "" hides the button
+    button: { label: { fa: "حمایت با ریمت (تومان)", en: "Support Via Reymit (Toman)" }, url: "https://reymit.ir/khosravani" }, // url "" hides the button
     crypto: { label: { fa: "⚡ حمایت با NowPayments (کریپتو)", en: "⚡ Support Via NowPayments (Crypto)" }, url: "https://nowpayments.io/donation/erfan" }
   },
 
   // ── Turn parts of the page on / off ──
   sections: {
-    videos: true, //        latest YouTube videos
-    posts: true, //         latest Telegram channel posts
+    videos: false, //        latest YouTube videos
+    posts: false, //         latest Telegram channel posts
     project: true, //       featured GitHub project
     tip: true, //           Linux tip of the day (edit the tips in public/tips.js)
     guestbook: true,
