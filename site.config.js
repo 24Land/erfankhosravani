@@ -11,16 +11,16 @@ export default {
   name: "Erfan Khosravani", //           big title, browser tab, share preview
   shortName: "Erfan", //          name under the icon when installed on a phone
   tagline: {
-    fa: "وب‌سایت شخصی توسعه دهنده پلتفرم 24 لند",
-    en: "Personal WebSite Of The Developer Of The 24 Land Platform"
+    fa: "توسعه دهنده پلتفرم 24 لند",
+    en: "24 Land Platform Developer"
   },
   description: {
-    fa: "وب‌سایت شخصی توسعه دهنده پلتفرم 24 لند",
-    en: "Personal WebSite Of The Developer Of The 24 Land Platform"
+    fa: "توسعه دهنده پلتفرم 24 لند",
+    en: "24 Land Platform Developer"
   },
   signature: "24Land.ir", // small line at the bottom of the side bar
   cardSubtitle: "24Land.ir", //     line on the visitor card image
-  showCredit: true, //            small "made with Pelak" link; false removes it
+  showCredit: false, //            small "made with Pelak" link; false removes it
 
   // ── Languages ──
   languages: ["fa", "en"], //     ["fa"] or ["en"] for a single language (hides the switch)
@@ -30,11 +30,11 @@ export default {
   // The four big tiles. "telegram", "YouTube"... are only samples: put your own, or "" to hide one.
   // Members / subscribers / stars are fetched automatically.
   social: {
-    telegram: "TwentyFourLand", //      public channel username
+    telegram: "ErfanKhosravani", //      public channel username
     youtube: "", //        channel handle
-    instagram: "instagram",
+    instagram: "ErfanKhosravanifar",
     github: "",
-    featuredRepo: "docs" //       one of your GitHub repositories to show as a card, "" to hide it
+    featuredRepo: "" //       one of your GitHub repositories to show as a card, "" to hide it
   },
 
   // ── Any other link you want ──
