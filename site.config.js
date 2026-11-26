@@ -43,8 +43,11 @@ export default {
   // color : red,green,blue
   // handle: optional text with a copy button
   links: [
-    { id: "website", label: { fa: "وب‌سایت", en: "Website" }, url: "https://24Land.ir", icon: "globe", color: "139,92,246", handle: "" },
+    { id: "website", label: { fa: "ورود به 24 لند", en: "Website" }, url: "https://24Land.ir", icon: "globe", color: "139,92,246", handle: "24Land.ir" },
     { id: "email", label: { fa: "ایمیل", en: "Email" }, url: "mailto:24Land.ir@Gmail.com", icon: "mail", color: "74,222,128", handle: "24Land.ir@Gmail.com" }
+    links: [
+  { id: "shop", label: { fa: "فروشگاه", en: "Shop" }, url: "https://example.com", icon: "store", color: "250,190,88", handle: "" }
+]
   ],
 
   // ── Donation card ──
@@ -62,7 +65,7 @@ export default {
   sections: {
     videos: false, //        latest YouTube videos
     posts: false, //         latest Telegram channel posts
-    project: true, //       featured GitHub project
+    project: false, //       featured GitHub project
     tip: true, //           Linux tip of the day (edit the tips in public/tips.js)
     guestbook: true,
     map: true, //           visitors globe
