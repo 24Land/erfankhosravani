@@ -60,17 +60,17 @@ export default {
 
   // ── Turn parts of the page on / off ──
   sections: {
-    videos: false, //        latest YouTube videos
+    videos: true, //        latest YouTube videos
     posts: true, //         latest Telegram channel posts
-    project: false, //       featured GitHub project
-    tip: false, //           Linux tip of the day (edit the tips in public/tips.js)
-    guestbook: false,
+    project: true, //       featured GitHub project
+    tip: true, //           Linux tip of the day (edit the tips in public/tips.js)
+    guestbook: true,
     map: true, //           visitors globe
     snake: true, //         snake game with a shared leaderboard
     terminal: true,
     achievements: true,
     visitorCard: true,
-    qr: false
+    qr: true
   },
 
   // ── Look ──
