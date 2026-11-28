@@ -43,12 +43,11 @@ export default {
   // color : red,green,blue
   // handle: optional text with a copy button
   links: [
-    { id: "website", label: { fa: "24 لند | انواع خدمات در یک پلتفرم", en: "24 Land" }, url: "https://24land.ir", icon: "globe", color: "139,92,246", handle: "24Land.ir" },
-    { id: "shop", label: { fa: "24 سوشال | خرید خدمات شبکه‌های اجتماعی و شماره مجازی", en: "24 Social" }, url: "https://24social.ir", icon: "store", color: "250,190,88", handle: "24Social.ir" },
-    { id: "shop2", label: { fa: "24 استورز | فروشگاه اینترنتی", en: "24 Stores" }, url: "https://24stores.ir", icon: "store", color: "250,190,88", handle: "24Stores.ir" },
-    { id: "website2", label: { fa: "24 تونز | دانلود آهنگ و موزیک ویدیو", en: "24 Tunes" }, url: "https://24tunes.ir", icon: "globe", color: "139,92,246", handle: "24Tunes.ir" },
-    { id: "website3", label: { fa: "24 موویز | تماشای آنلاین فیلم و سریال", en: "24 Tunes" }, url: "https://24movies.ir", icon: "globe", color: "139,92,246", handle: "24Movies.ir" },
-    { id: "website4", label: { fa: "24 مگز | اخبار ایران و جهان", en: "24 Tunes" }, url: "https://24mags.ir", icon: "globe", color: "139,92,246", handle: "24Mags.ir" },
+    { id: "shop", label: { fa: "خرید خدمات شبکه‌های اجتماعی و شماره مجازی", en: "Purchase Social Media Services & Virtual Numbers" }, url: "https://24social.ir", icon: "store", color: "250,190,88", handle: "24Social.ir" },
+    { id: "shop2", label: { fa: "فروشگاه اینترنتی", en: "Online Store" }, url: "https://24stores.ir", icon: "store", color: "250,190,88", handle: "24Stores.ir" },
+    { id: "website2", label: { fa: "دانلود آهنگ و موزیک ویدیو", en: "Download Music & Music Video" }, url: "https://24tunes.ir", icon: "globe", color: "139,92,246", handle: "24Tunes.ir" },
+    { id: "website3", label: { fa: "تماشای آنلاین فیلم و سریال", en: "Watch Movies & Series Online" }, url: "https://24movies.ir", icon: "globe", color: "139,92,246", handle: "24Movies.ir" },
+    { id: "website4", label: { fa: "اخبار ایران و جهان", en: "News From Iran & The World" }, url: "https://24mags.ir", icon: "globe", color: "139,92,246", handle: "24Mags.ir" },
     { id: "email", label: { fa: "ایمیل", en: "Email" }, url: "mailto:24Land.ir@Gmail.com", icon: "mail", color: "74,222,128", handle: "24Land.ir@Gmail.com" }
   ],
 
@@ -59,8 +58,8 @@ export default {
     goalName: { fa: "توسعه پلتفرم‌های جدید", en: "Development Of New Platforms" }, // Reymit's own goal name wins when connected
     goal: 10000000, //            goal amount
     currency: { fa: "تومان", en: "Toman" },
-    button: { label: { fa: "حمایت با ریمت (تومان)", en: "Support Via Reymit (Toman)" }, url: "https://reymit.ir/khosravani" }, // url "" hides the button
-    crypto: { label: { fa: "⚡ حمایت با NowPayments (کریپتو)", en: "⚡ Support Via NowPayments (Crypto)" }, url: "https://nowpayments.io/donation/erfan" }
+    button: { label: { fa: "حمایت (تومان)", en: "Support (Toman)" }, url: "https://reymit.ir/khosravani" }, // url "" hides the button
+    crypto: { label: { fa: "⚡ حمایت (کریپتو)", en: "⚡ Support (Crypto)" }, url: "https://nowpayments.io/donation/erfan" }
   },
 
   // ── Turn parts of the page on / off ──
